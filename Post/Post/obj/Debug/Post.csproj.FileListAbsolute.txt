@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Post\Post\bin\Debug\Post.exe.config
+C:\Users\Admin\Documents\Post\Post\bin\Debug\Post.exe
+C:\Users\Admin\Documents\Post\Post\bin\Debug\Post.pdb
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.Properties.Resources.resources
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.exe
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.pdb
+C:\Users\Admin\Documents\Post\Post\obj\Debug\Post.Form1.resources
